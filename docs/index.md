@@ -23,7 +23,27 @@ Cette section décrit les différents concepts qui composent l'application, il n
 
 ### Habitants
 
+Dans l'application, un habitant représente une personne qui sont rencontrées ou reçoivent de l'aide dans le cadre de différents projets.
+Voici quelques points clés concernant le concept d'habitant :
+
+- Les habitants sont au cœur du système, car les utilisateurs suivent les interactions ou les activités qui leur sont liées.
+- Chaque habitant peut être associé à un ou plusieurs projets.
+- Le profil de l'habitant stocke des informations essentielles telles que les informations personnelles, l'historique des activités et les informations spécifiques liés au(x) projet(s).
+
+En résumé, l'habitant est la pierre angulaire de l'application, permettant de suivre et de gérer les interactions liées à chaque individu. Des modules peuvent être ajoutés pour étendre les profils des habitants avec des champs ou des fonctionnalités spécialisées. Par exemple, il peut y avoir un module pour suivre les activités liées à la santé ou au logement.
+
 ### Projets
+
+Dans l'application, un projet est un cadre dans lequel les utilisateurs organisent les activités.
+Voici les aspects clés concernant le concept de projet :
+
+- Les projets impliquent des travailleurs qui participent au projet.
+- Ils contiennent des activités réalisées pour, avec ou sans les habitants par les utilisateurs.
+- Un projet peut inclure plusieurs habitants et offre une vue d'ensemble de toutes les activités associées, ce qui facilite le suivi des résultats au niveau du projet.
+- Le suivi par projet permet enregistrement de toutes les activités, qu'elles impliquent ou non des habitants.
+- L'interface, les options disponibles sont personnalisés en fonction des projets.
+
+Un projet sert de cadre pour organiser les activités et les interactions avec les habitants, permettant aux utilisateurs de gérer et de suivre le parcours. Les projets permettent de suivre un résumé et l'historique des activités et personnalise l'interface et les modules.
 
 ### Modules
 
