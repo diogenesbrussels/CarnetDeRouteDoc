@@ -49,6 +49,9 @@ Un projet sert de cadre pour organiser les activités et les interactions avec l
 
 ### Activités
 
+Les activités permettent d'enregistrer les interactions avec ou pour les habitants mais également d'autres types d'activités telles que des observations, concertations ou activités de groupes.
+Elles contiennent notamment les informations suivantes : date de l'activité, habitant(s) liés, lieu(x), organisation(s), projet, notes...
+
 ### Utilisateurs
 
 ### Ressources
