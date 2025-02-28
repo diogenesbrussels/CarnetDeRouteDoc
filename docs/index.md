@@ -1,24 +1,24 @@
-# Introduction
+## Introduction
 
 Ce document décrit l'application Carnet de Route 3.0 et ses concepts clés. 
 
-# Sommaire
+## Sommaire
 
-# Description
+## Description
 
-# Concepts clés
-## Habitants
+## Concepts clés
+### Habitants
 
-## Projets
+### Projets
 
-## Activités
+### Activités
 
-## Ressources
+### Ressources
 
-## Modules
+### Modules
 
-## Vie privée
+### Vie privée
 
-# Aperçu / Démonstration
+## Aperçu / Démonstration
 
-# Contact
+## Contact
