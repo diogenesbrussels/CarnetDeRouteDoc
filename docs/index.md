@@ -25,9 +25,9 @@ Cette section décrit les différents concepts qui composent l'application, il n
 
 ### Projets
 
-### Activités
-
 ### Modules
+
+### Activités
 
 ### Utilisateurs
 
