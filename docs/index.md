@@ -90,7 +90,11 @@ Une attention particulière est accordée à la réduction du nombre de clics et
 
 #### Notes
 
+Les notes peuvent être déposées par les utilisateurs et partagées avec d'autres travailleurs appartenant au même projet. Elles peuvent être liées à des activites, des habitants, des organisations...
+
 #### Demandes
+
+Un système d'enregistrement des demandes (appels téléphoniques, emails) permet de gérer et d'effectuer le suivi nécessaire. Il permet d'utiliser les autres ressources (habitants, organisations, lieux, ...) pour aider les travailleurs à y apporter le suivi approprié.
 
 ### Reporting et rapports d'activités
 
