@@ -31,6 +31,14 @@ Cette section décrit les différents concepts qui composent l'application, il n
 
 ### Ressources
 
+L'application embarque plusieurs type de ressources qui sont utilisées couramment :
+
+- Liste des lieux, espaces et rues (uniquement Bruxelles actuellement)
+- Liste des organisations du secteur social (via social.brussels)
+- Liste des pays et nationalités
+
+Ces ressources peuvent être modifiées et adaptées en fonction du besoin des utilisateurs.
+
 ### Modules
 
 ### Vie privée
@@ -48,6 +56,12 @@ Le respect de la vie privée, du secret professionnel et du règlement général
 ### Interface
 
 ### Personnalisation
+
+### Autres
+
+#### Notes
+
+#### Demandes
 
 ### Reporting et rapports d'activités
 
