@@ -15,7 +15,7 @@ Voici les principaux objectifs de l'application:
 - Personnalisation par organisation
 - Gestion des accès basés sur les rôles
 
-  L'application offre une vue d'ensemble de l'activité des travailleurs, en suivant les interactions et en organisant les activités de soutien, tout en assurant que toutes les données pertinentes soient accessibles aux utilisateurs en fonction de leurs rôles.
+L'application offre une vue d'ensemble de l'activité des travailleurs, en suivant les interactions et en organisant les activités de soutien, tout en assurant que toutes les données pertinentes soient accessibles aux utilisateurs en fonction de leurs rôles.
 
 ## Concepts clés
 
