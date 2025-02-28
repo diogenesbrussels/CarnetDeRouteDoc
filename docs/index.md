@@ -27,6 +27,8 @@ Cette section décrit les différents concepts qui composent l'application, il n
 
 ### Activités
 
+### Modules
+
 ### Utilisateurs
 
 ### Ressources
@@ -38,8 +40,6 @@ L'application embarque plusieurs type de ressources qui sont utilisées couramme
 - Liste des pays et nationalités
 
 Ces ressources peuvent être modifiées et adaptées en fonction du besoin des utilisateurs.
-
-### Modules
 
 ### Vie privée
 
