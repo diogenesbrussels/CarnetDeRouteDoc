@@ -55,7 +55,10 @@ Le respect de la vie privée, du secret professionnel et du règlement général
 
 ### Interface
 
-L'interface utilisateur de l'application est conçue avec une approche "mobile-first", visant à assurer une utilisation facile et rapide. Cette conception est particulièrement adaptée aux travailleurs de rue, en tenant compte des environnements difficiles et des ressources limitées. Bien que l'application soit pensée pour les appareils mobiles, elle est également accessible sur ordinateur via un navigateur web. Cette adaptation permet aux utilisateurs de bénéficier d'une expérience cohérente sur les deux plateformes, tout en offrant des fonctionnalités supplémentaires pour la gestion de projet et la création de rapports sur la version bureau.
+L'interface utilisateur de l'application est conçue avec une approche "mobile-first", visant à assurer une utilisation facile et rapide. Cette conception est particulièrement adaptée aux travailleurs de rue, en tenant compte des environnements difficiles et des ressources limitées.
+
+Bien que l'application soit pensée pour les appareils mobiles, elle est également accessible sur ordinateur via un navigateur web. Cette adaptation permet aux utilisateurs de bénéficier d'une expérience cohérente sur les deux plateformes, tout en offrant des fonctionnalités supplémentaires pour la gestion de projet et la création de rapports sur la version bureau.
+
 Une attention particulière est accordée à la réduction du nombre de clics et d'interactions nécessaires pour rechercher, visualiser les informations et en ajouter/modifier.
 
 ### Personnalisation
