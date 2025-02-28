@@ -97,4 +97,4 @@ La version 3.0 est en cours de développement est n'est pas encore disponible. V
 
 ## Contact
 
-Pour toute demande ou questions relative à l'application Carnet de Route, merci de prendre contact via it@diogenes.brussels
+Pour toute demande ou questions relative à l'application Carnet de Route, merci de prendre contact via <it@diogenes.brussels>
