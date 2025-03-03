@@ -55,6 +55,7 @@ Les modules sont activés en fonction des projets de l'utilisateur ce qui permet
 
 Les activités permettent d'enregistrer les interactions avec ou pour les habitants mais également d'autres types d'activités telles que des observations, concertations ou activités de groupes.
 Elles contiennent notamment les informations suivantes : date de l'activité, habitant(s) liés, lieu(x), organisation(s), projet, notes...
+Le formulaire permettant des ajouts et modificatons d'activités est composé de manière à être le plus aisé possible à compléter : il s'adapte en fonction de l'utilisateur, de ses projets, de son type d'activité et propose des suggestions liées à l'utilisateur mais également de l'habitant concerné.
 
 ### Utilisateurs
 
