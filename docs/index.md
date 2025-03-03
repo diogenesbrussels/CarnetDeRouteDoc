@@ -47,6 +47,10 @@ Un projet sert de cadre pour organiser les activités et les interactions avec l
 
 ### Modules
 
+Le fonctionnement sous forme de modules permet au Carnet de Route de s'adapter en fonction de l'usage de chaque organisation et de chaque projet au sein d'une organisation.
+Les modules peuvent être attachés aux habitants, aux activités ou à l'application pour étendre les possibilités comme par exemple : un module Housing First lié à l'habitant, un module liés aux activités pour collecter certaines informations spécifiques ou encore à l'application pour permettre une visualisation des données.
+Les modules sont activés en fonction des projets de l'utilisateur ce qui permet de simplifier l'interface pour l'utilisateur et permet une séparation ou un partage d'informations entre utilisateurs de différents projets.
+
 ### Activités
 
 Les activités permettent d'enregistrer les interactions avec ou pour les habitants mais également d'autres types d'activités telles que des observations, concertations ou activités de groupes.
