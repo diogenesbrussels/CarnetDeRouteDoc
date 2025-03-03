@@ -49,12 +49,14 @@ Un projet sert de cadre pour organiser les activités et les interactions avec l
 
 Le fonctionnement sous forme de modules permet au Carnet de Route de s'adapter en fonction de l'usage de chaque organisation et de chaque projet au sein d'une organisation.
 Les modules peuvent être attachés aux habitants, aux activités ou à l'application pour étendre les possibilités comme, par exemple : un module Housing First lié à l'habitant, un module lié aux activités pour collecter certaines informations spécifiques ou encore à l'application pour permettre une visualisation des données.
+
 Les modules sont activés en fonction des projets de l'utilisateur, ce qui permet de simplifier l'interface et de séparer ou partager des informations entre utilisateurs de différents projets.
 
 ### Activités
 
 Les activités permettent d'enregistrer les interactions avec ou pour les habitants, mais également d'autres types d'activités telles que des observations, concertations ou activités de groupes.
 Elles contiennent notamment les informations suivantes : date de l'activité, habitant(s) lié(s), lieu(x), organisation(s), projet, notes...
+
 Le formulaire permettant les ajouts et modifications d'activités est conçu de manière à être le plus aisé possible à compléter : il s'adapte en fonction de l'utilisateur, de ses projets, du type d'activité choisi et propose des suggestions liées à l'utilisateur, mais également à l'habitant concerné.
 
 ### Utilisateurs
@@ -116,7 +118,9 @@ Un système d'enregistrement des demandes (appels téléphoniques, emails) perme
 ### Reporting et rapports d'activités
 
 L'application propose aux utilisateurs un aperçu de son travail et de son activité au sein du Carnet de Route. Les responsables de projets peuvent accéder à un récapitulatif des habitants et des activités au sein des projets. Un tableau de bord général permet également un aperçu statistique des données du Carnet de Route pour une utilisation quotidienne.
+
 Les données peuvent également être exportée sous forme de tableaux (CSV) qui contiennent les données anonymisées ou pseudo-anonymisées pour pouvoir être analysées plus en profondeur.
+
 Un accès direct aux tableaux anonymisés est également possible via la base de données, il est alors possible de connecter ces tableaux à des outils d'analyse et de visualisation tels que Looker Studio, Infogram, Tableau ou Power BI.
 
 ## Aperçu / Démonstration
