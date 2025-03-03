@@ -115,6 +115,10 @@ Un système d'enregistrement des demandes (appels téléphoniques, emails) perme
 
 ### Reporting et rapports d'activités
 
+L'application propose aux utilisateurs un aperçu de son travail et de son activité au sein du Carnet de Route. Les responsables de projets peuvent accéder à un récapitulatif des habitants et des activités au sein des projets. Un tableau de bord général permet également un aperçu statistique des données du Carnet de Route pour une utilisation quotidienne.
+Les données peuvent également être exportée sous forme de tableaux (CSV) qui contiennent les données anonymisées ou pseudo-anonymisées pour pouvoir être analysées plus en profondeur.
+Un accès direct aux tableaux anonymisés est également possible via la base de données, il est alors possible de connecter ces tableaux à des outils d'analyse et de visualisation tels que Looker Studio, Infogram, Tableau ou Power BI.
+
 ## Aperçu / Démonstration
 
 La version 3.0 est en cours de développement et n'est pas encore disponible. Vous pouvez prendre contact avec nous pour obtenir des informations et un aperçu de notre application en version 2.0.
