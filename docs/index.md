@@ -139,11 +139,11 @@ Cette intégraton permettrait aux utilisateurs d'exporter/afficher les activité
 
 #### Notifications
 
-Un système de notification par email est intégré au Carnet de Route mais il pourrait être intéressant d'ajouter des modes de notification différents et adapté aux usages : sur le téléphone, par SMS, par Whatsapp/Signal...
+Un système de notification par email est intégré au Carnet de Route, mais il pourrait être intéressant d'ajouter des modes de notification différents et adaptés aux usages : sur le téléphone, par SMS, par Whatsapp/Signal...
 
 #### Hors-ligne
 
-L'application serait accessible en ligne et hors ligne permettant aux utilisateurs de compléter leur Carnet de Route même lors d'une perte de connexion.
+L'application serait accessible en ligne et hors ligne, permettant aux utilisateurs de compléter leur Carnet de Route même lors d'une perte de connexion.
 
 ## Aperçu / Démonstration
 
