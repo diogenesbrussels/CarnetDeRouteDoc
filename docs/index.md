@@ -123,6 +123,28 @@ Les données peuvent également être exportée sous forme de tableaux (CSV) qui
 
 Un accès direct aux tableaux anonymisés est également possible via la base de données, il est alors possible de connecter ces tableaux à des outils d'analyse et de visualisation tels que Looker Studio, Infogram, Tableau ou Power BI.
 
+## Perspectives
+
+### Module News
+
+Ce module permettrait à l'équipe de communiquer en interne sur des actualités directement liées à l'organisation afin de diminuer les emails à caractère informatif.
+
+### Module Questions
+
+Ce module permettrait de converser avec un LLM (IA type chatbot), connaissant la structure des données du Carnet de Route, il permettrait de composer une requête sur le base de donnée qui repondrait à la question de l'utilisateur ainsi aucune donnée personnelle ne serait échangée.
+
+### Intégration Agenda
+
+Cette intégraton permettrait aux utilisateurs d'exporter/afficher les activités encodées dans le Carnet de Route directement dans leur agenda numérique et inversément d'importer son agenda afin de le convertir en activités.
+
+### Notifications
+
+Un système de notification par email est intégré au Carnet de Route mais il pourrait être intéressant d'ajouter des modes de notification différents et adapté aux usages : sur le téléphone, par SMS, par Whatsapp/Signal...
+
+### Hors-ligne
+
+L'application serait accessible en ligne et hors ligne permettant aux utilisateurs de compléter leur Carnet de Route même lors d'une perte de connexion.
+
 ## Aperçu / Démonstration
 
 La version 3.0 est en cours de développement et n'est pas encore disponible. Vous pouvez prendre contact avec nous pour obtenir des informations et un aperçu de notre application en version 2.0.
