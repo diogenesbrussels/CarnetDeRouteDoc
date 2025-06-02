@@ -141,10 +141,6 @@ Cette intégraton permettrait aux utilisateurs d'exporter/afficher les activité
 
 Un système de notification par email est intégré au Carnet de Route, mais il pourrait être intéressant d'ajouter des modes de notification différents et adaptés aux usages : sur le téléphone, par SMS, par Whatsapp/Signal...
 
-#### Hors-ligne
-
-L'application serait accessible en ligne et hors ligne, permettant aux utilisateurs de compléter leur Carnet de Route même lors d'une perte de connexion.
-
 ## Aperçu / Démonstration
 
 La version 3.0 est en cours de développement et n'est pas encore disponible. Vous pouvez prendre contact avec nous pour obtenir des informations et un aperçu de notre application en version 2.0.
