@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository has moved to Codeberg.**
+> Development and issues are now tracked at:
+> **[https://codeberg.org/diogenesbrussels/CarnetDeRouteDoc]**
+
+---
+
 ## Introduction
 
 Ce document décrit l'application Carnet de Route 3.0 et ses concepts clés.
